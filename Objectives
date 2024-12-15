@@ -1,0 +1,6 @@
+TCP and UDP
+
+
+- Captures network packets in real time.
+- Filters for IP packets only.
+- Extracts and prints the protocol type, source IP, and destination IP for each captured packet.
